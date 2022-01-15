@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: About
+title: CV
 permalink: /about/
 ---
 ## Markdown
