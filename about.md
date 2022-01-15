@@ -3,11 +3,14 @@ layout: inner
 title: CV
 permalink: /about/
 ---
-## Markdown
+# cv
+
+## Education 
+
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](/index.html).
+[Link to another page](/index.html).  #cv pdf 파일로 해서 링크 따로 또 하기
 
 giit dlifgn aphs.
 
@@ -96,6 +99,7 @@ end
 ### Wide image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://github.com/ddubny/ddubny.github.io/blob/main/ddubny_emoji.png)
 
 ### Definition lists can be used with HTML syntax.
 

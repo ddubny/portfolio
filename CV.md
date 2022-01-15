@@ -96,7 +96,7 @@ end
 ### Wide image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+![Branching](https://github.com/ddubny/ddubny.github.io/blob/main/ddubny_emoji.png)
 ### Definition lists can be used with HTML syntax.
 
 <dl>
