@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: CV
-permalink: /about/
+permalink: /CV/
 ---
 ## Markdown
 
