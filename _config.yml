@@ -13,12 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+<head>
+  <title> SUBIN SEO </title>
+</head>
+
 title: "Hello. I'm SUBIN SEO."
 email: 'stm01@naver.com'
-description: "I'm interested in Psychology and designer from Chicago creating useful things for the web."
+description: "I'm interested in Psychology."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ddubny.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'ddubny'
+twitter_username: 'ddubny_psy'
 github_username: 'ddubny'
 medium_username: 'blog.naver.com/stm01'
 
@@ -98,4 +102,6 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  - { url: '/about', text: 'CV' }
+  - { url: '/study', text: 'review' }
+

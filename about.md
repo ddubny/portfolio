@@ -5,10 +5,10 @@ permalink: /about/
 ---
 # cv
 [Link to another page](/index.html).  #cv pdf 파일로 해서 링크 따로 또 하기
-stm01@naver.com
-Library and information science
-Psychology 
-in Jeonbuk national university
+stm01@naver.com.
+Library and information science.
+Psychology .
+in Jeonbuk national university.
  
 ## Education
 | course                                         |                   |  gpa  |
@@ -17,6 +17,13 @@ in Jeonbuk national university
 | 인지심리학                                     | good and plenty   | A+    |
 | 신경과학 입문                                  | good `oreos`      | hmm   |
 | 통계학 입문                                    | good `zoute` drop | yumm  |
+
+|course        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | A+    |
+| out of stock | good and plenty   | A+    |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 
 ## Research Interests
