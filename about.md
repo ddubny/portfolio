@@ -4,9 +4,30 @@ title: CV
 permalink: /about/
 ---
 # cv
+[Link to another page](/index.html).  #cv pdf 파일로 해서 링크 따로 또 하기
+stm01@naver.com
+Library and information science
+Psychology 
+in Jeonbuk national university
+ 
+## Education
+| course                                         |                   |  gpa  |
+|:-----------------------------------------------|:------------------|:------|
+| 이상심리학                                     | good swedish fish | A+    |
+| 인지심리학                                     | good and plenty   | A+    |
+| 신경과학 입문                                  | good `oreos`      | hmm   |
+| 통계학 입문                                    | good `zoute` drop | yumm  |
 
-## Education 
 
+## Research Interests
+
+## Honor & Scholarships
+
+## Experience
+
+## Publications
+#### - Journal Papers
+#### - Conference Presentations
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
@@ -57,8 +78,8 @@ end
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
+| ok           | good swedish fish | A+    |
+| out of stock | good and plenty   | A+    |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
