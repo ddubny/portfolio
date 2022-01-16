@@ -13,9 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-<head>
-  <title> SUBIN SEO </title>
-</head>
 
 title: "Hello. I'm SUBIN SEO."
 email: 'stm01@naver.com'
