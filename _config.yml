@@ -99,4 +99,8 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'cv' }
+<<<<<<< HEAD
   - { url: '/study', text: 'study'}
+=======
+  - { url: '/study', text: 'study'}
+>>>>>>> 7c440ad0fcc7648c100a4a360a6734f2892af87f
