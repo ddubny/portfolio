@@ -63,7 +63,7 @@ pagination:
   sort_reverse: true
 
   # Optional, the default category to use, omit or just leave this as 'posts' to get a backwards-compatible behavior (all posts)
-  category: 'posts'
+  category: '_posts'
 
   # Optional, the default tag to use, omit to disable
   tag: ''
@@ -100,3 +100,4 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'cv' }
   - { url: '/study', text: 'study'}
+ 
