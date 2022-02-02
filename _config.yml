@@ -13,16 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-<<<<<<< HEAD
-=======
-
->>>>>>> fe9761b28a7da4f5668f7c3db1ac2792657dec6b
-
 title: "Hello. I'm SUBIN SEO."
 email: 'stm01@naver.com'
-description: "I'm interested in Psychology."
+description: "I'm a software developer and designer from Chicago creating useful things for the web."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ddubny.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://ddubny.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'ddubny_psy'
 github_username: 'ddubny'
 medium_username: 'blog.naver.com/stm01'
@@ -94,8 +89,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2022 SUBIN SEO'
-admin_name: 'SUBIN SEO'
+footer_text: '© 2018 Jami Gibbs'
+admin_name: 'Jami Gibbs'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
@@ -103,6 +98,5 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'CV' }
-  - { url: '/study', text: 'review' }
-
+  - { url: '/about', text: 'cv' }
+  - { url: '/study', text: 'study'}
