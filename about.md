@@ -4,7 +4,7 @@ title: CV
 permalink: /about/
 ---
 # cv
-[Link to another page](/index.html).  #cv pdf 파일로 해서 링크 따로 또 하기
+[Link to another page]('./index.html').  #cv pdf 파일로 해서 링크 따로 또 하기
 stm01@naver.com.
 Library and information science.
 Psychology .

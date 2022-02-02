@@ -7,7 +7,7 @@ permalink: /CV/
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](/index.html).
+[Link to another page]('./index.html').
 
 giit dlifgn aphs.
 
