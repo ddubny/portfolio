@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pixyll
 
 [pixyll.com](https://www.pixyll.com/)
@@ -233,3 +234,6 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 ## Forking
 
 There is a [guide to forking Pixyll](https://pixyll.com/jekyll/pixyll/2019/01/26/guide-to-forking-pixyll/).
+=======
+# portfolio
+>>>>>>> 0ac9ac04074c66dfa73f98efb96eae4c5d754cb5
