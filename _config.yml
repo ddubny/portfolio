@@ -16,8 +16,8 @@
 title: "Hello. I'm SUBIN SEO."
 email: 'stm01@naver.com'
 description: "일단 한번."
-baseurl: "/ddubny" # the subpath of your site, e.g. /blog
-url: "https://ddubny.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/#portfolio" # the subpath of your site, e.g. /blog
+url: "https://ddubny.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'ddubny_psy'
 github_username: 'ddubny'
 medium_username: 'blog.naver.com/stm01'
