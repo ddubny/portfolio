@@ -14,9 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "SUBIN SEO"
+subtitle: "psychology students"
 email: 'stm01@naver.com'
 description: "일단 한번 도전."
-baseurl: "/ddubny" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ddubny.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'ddubny_psy'
 github_username: 'ddubny'
