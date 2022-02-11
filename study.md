@@ -1,44 +1,13 @@
 ---
 layout: inner
 title: CV
-permalink: /about/
+permalink: /CV/
 ---
-# cv
-[Link to another page]('./index.html').  #cv pdf 파일로 해서 링크 따로 또 하기
-stm01@naver.com.
-Library and information science.
-Psychology .
-in Jeonbuk national university.
- 
-## Education
-| course                                         |                   |  gpa  |
-|:-----------------------------------------------|:------------------|:------|
-| 이상심리학                                     | good swedish fish | A+    |
-| 인지심리학                                     | good and plenty   | A+    |
-| 신경과학 입문                                  | good `oreos`      | hmm   |
-| 통계학 입문                                    | good `zoute` drop | yumm  |
-
-|course        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | A+    |
-| out of stock | good and plenty   | A+    |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-
-## Research Interests
-
-## Honor & Scholarships
-
-## Experience
-
-## Publications
-#### - Journal Papers
-#### - Conference Presentations
+## Markdown
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](/index.html).  #cv pdf 파일로 해서 링크 따로 또 하기
+[Link to another page]('./index.html').
 
 giit dlifgn aphs.
 
@@ -85,8 +54,8 @@ end
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | A+    |
-| out of stock | good and plenty   | A+    |
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
@@ -128,7 +97,6 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 ![Branching](https://github.com/ddubny/ddubny.github.io/blob/main/ddubny_emoji.png)
-
 ### Definition lists can be used with HTML syntax.
 
 <dl>
