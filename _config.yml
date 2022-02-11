@@ -17,7 +17,7 @@ title: "Hello. I'm SUBIN SEO."
 email: 'stm01@naver.com'
 description: "I'm a software developer and designer from Chicago creating useful things for the web."
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: "https://ddubny.github.io/portfolio" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://ddubny.github.io/portfolio/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'jamigibbs'
 github_username: 'jamigibbs'
 medium_username: 'blog.jamigibbs.com'
