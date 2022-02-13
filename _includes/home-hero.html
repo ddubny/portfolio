@@ -16,14 +16,15 @@
           <h1 class="text-center">{{site.data.global.title2}}</h1>
           {% endif %}
 
+          <div style="text-align:center">
+          <img src='img/favicon.png' width="300px" height="300px" align="middle" >
+          </div>
+          
           {% if site.data.global.description != '' %}
           <p class="text-center">{{site.data.global.description}} {% include contact.html %}</p>
           {% endif %}
-
-          <img src='img/favicon.png' width="300px" height="300px" align="middle" >
-        
-
-
+          
+          
           {% include contact-modal.html %}
 
           <div class="hero-buttons">
