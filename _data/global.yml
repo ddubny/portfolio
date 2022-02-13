@@ -1,7 +1,6 @@
 # Site Settings
 title: "Hello" 
-title2: "I'm SUBIN SEO."" 
-logo: 'img/posts/02_weathercast-1130x864-2x.png'
+title2: "I'm SUBIN SEO."
 description: "I am a double major in Psychology and Library and Information Science."
 url: 'https://ddubny.github.io/portfolio/' # the base hostname & protocol for your site
 nav: "true"
