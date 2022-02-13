@@ -1,10 +1,10 @@
 ---
 layout: inner
 position: left
-title: 'Undergraduate courses'
-date: 2016-02-20 21:15:00
-categories: development design
-tags: Jekyll Sass Bootstrap
+title: 'Undergraduate Psychology courses'
+date: 2022-02-13 14:00
+categories: development
+tags: JBNU Korea
 featured_image: 'img/posts/04_phantom-jekyll-1130x864-2x.png'
 project_link: 'https://ddubny.github.io/studyrecord/'
 button_icon: 'flask'
