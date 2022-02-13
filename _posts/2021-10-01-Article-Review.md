@@ -1,10 +1,10 @@
 ---
 layout: inner
 position: left
-title: 'EmoLAB'
-date: 2022-02-13 14:01
+title: 'Article Review'
+date: 2021-10-01 12:00
 categories: development
-tags: Matlab Emotional-word 
+tags: emotion brain clinical  
 featured_image: 'img/posts/02_weathercast-1130x864-2x.png'
 project_link: 'http://github.com/jamigibbs/weathercast'
 button_icon: 'github'
