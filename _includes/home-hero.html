@@ -12,9 +12,17 @@
           <h1 class="text-center">{{site.data.global.title}}</h1>
           {% endif %}
 
+          {% if site.data.global.title2 != '' %}
+          <h1 class="text-center">{{site.data.global.title2}}</h1>
+          {% endif %}
+
           {% if site.data.global.description != '' %}
           <p class="text-center">{{site.data.global.description}} {% include contact.html %}</p>
           {% endif %}
+
+          <img src="posts/favicon.png"width="150px" height="100px" border="10">
+        
+
 
           {% include contact-modal.html %}
 
